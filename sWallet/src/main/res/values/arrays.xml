@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="font_size_values">
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>16 dip</item>
+        <item>18 dip</item>
+        <item>20 dip</item>
+        <item>22 dip</item>
+        <item>24 dip</item>
+    </string-array>
+</resources>
